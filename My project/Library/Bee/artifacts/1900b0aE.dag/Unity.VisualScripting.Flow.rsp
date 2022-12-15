@@ -331,7 +331,6 @@
 -r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
 -r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
 -r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.collab-proxy@1.15.15/Lib/Editor/PlasticSCM/unityplastic.dll"
--r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.testtools.codecoverage@1.0.1/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.visualscripting@1.7.6/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"D:/IFRJ/GitHub/3º Período/Trabaio_Hedinnei/My project/Library/PackageCache/com.unity.visualscripting@1.7.6/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
